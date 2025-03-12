@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I love to code things!
+- 🙂 Visit my website for more info: [mirandazheng.com](https://www.mirandazheng.com/)
+
 <!--
 **mirmirmirr/mirmirmirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
